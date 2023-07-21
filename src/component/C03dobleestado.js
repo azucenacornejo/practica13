@@ -1,4 +1,4 @@
-import React, {useState, Fragmet} from 'react';
+import React, {useState, Fragment} from 'react';
 
 const  Dobleestado= () => {
     
@@ -11,13 +11,13 @@ const  Dobleestado= () => {
     }
 
     return (
-        <Fragmet>
+        <Fragment>
             <button onClick={()=>setValor(valor+1)}>contador 1</button>
             <span>Incremento de contador 1: {valor}</span>
             <hr/>
             <button onClick={IncrementoDos}>Contador 2</button>
             <span>Incremento de contador 2: {numero}</span>
-        </Fragmet>
+        </Fragment>
     );
 }
 

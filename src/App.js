@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import C01component from './component/C01component';
 import C02contador from './component/C02contador';
-import C03component from './component/C03component';
+import C03dobleestado from './component/C03dobleestado';
 
 function App() {
   return (
