@@ -1,6 +1,6 @@
 import React, {useState, Fragmet} from 'react';
 
-const Contador2 = () => {
+const  Dobleestado= () => {
     
     const [valor, setValor] = useState(0);
     const [numero, setNumero] = useState(0);
@@ -21,4 +21,4 @@ const Contador2 = () => {
     );
 }
 
-export default Contador2;
+export default Dobleestado;

@@ -12,7 +12,7 @@ function App() {
       <h1>Componente 2</h1>
       <C02contador />
       <h1>Componente 3</h1>
-      <C03component/>
+      <P3dobleestado/>
     </div>
   );
 }
