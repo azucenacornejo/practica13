@@ -3,9 +3,11 @@ import React from 'react'
 const C01component = () => {
   return (
     <div>
-      <h1>Hola Mundo desde React</h1>
+      <h1>Instituto Honorio Delgado Espinoza</h1>
+      <h2>Blanca Azucena Cornejo Quispe</h2>
+      <h3>Turno Noche</h3>
     </div>
   )
 }
 
-export default C01component
+export default C01component;
